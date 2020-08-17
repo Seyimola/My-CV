@@ -3,7 +3,7 @@ border:0;
 font:inherit;
 font-size:100%;
 margin:0;
-padding:0;
+p
 vertical-align:baseline;
 }
 
@@ -230,4 +230,16 @@ section:last-child {
 		margin-bottom: 4px;
 	}
 }
-
+body {
+	background-color: greenyellow;
+}
+.link {
+	border: 2em;
+	background-color: blue;
+	line-height: 2em;
+	background-image: initial;
+	text-align: center;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: black;
+	padding: 0mm;
+}
